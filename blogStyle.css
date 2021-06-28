@@ -1,0 +1,18 @@
+/*Le style du blog est défini ici*/
+#Billet {
+  background-color: darkgray;
+  margin: auto;
+  width: 600px;
+}
+
+#titreBillet {
+  text-align: center;
+  font-weight: bold;
+  background-color: #000;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #0000ff;
+}
